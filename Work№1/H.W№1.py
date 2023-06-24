@@ -9,6 +9,7 @@
 #     des = digit % 100 // 10
 #     ed = digit % 10
 #     print(ed + des + sot)
+#     print(des)
 
 # print("task 2(4)")
 # origami = int(input("Сколько всего журавликов сделали дети"))
